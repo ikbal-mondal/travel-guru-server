@@ -1,0 +1,30 @@
+
+[
+  
+  {
+    
+    "id": "01",
+    "imgURL": "https://kolkatatourism.travel/images/places-to-visit/headers/victoria-memorial-kolkata-entry-fee-timings-holidays-reviews-header.jpg",
+    "name": "Victoria Memorial"
+
+  },
+  
+  {
+    "id": "03",
+    "imgURL": "https://assets.cntraveller.in/photos/618cf9bacb71571d901e7b55/4:3/w_1440,h_1080,c_limit/Vivanta%20Dal%20View%20Sri%20Nagar%205.jpeg",
+    "name": "Kashmir"
+  },
+  {
+    "id": "02",
+    "imgURL": "https://cms.musafir.com/uploads/1920x1080_Beauty_of_Taj_Mahal_1_6ca4fe9fe7.jpg",
+    "name": "taj Mahal"
+  },
+
+  {
+    "id": "04",
+    "imgURL": "https://images.thrillophilia.com/image/upload/s--42_l55xN--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/291/943/original/1591008060_1st.jpg.jpg?1591008060",
+    "name": "Darjeeling"
+  }
+  
+
+]

@@ -1,0 +1,169 @@
+[
+
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxljnkggOwrbrs5BbZg8F4GjfJqvpfxJZrg&usqp=CAU",
+        "title": "hotel room booking 1",
+        "guests": 4,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.5 },
+        "price": 326
+        
+      },
+    {
+        "_id": "kg56fg5fd4d65f4fg4ff64fd454g5fd4",
+        "category_id": "01",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYvTIkKH6T56P4tlZS41W4HrNmmA1E3oJXzQ&usqp=CAU",
+        "title": "hotel room booking 1",
+        "guests": 2,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.3 },
+        "price": 326
+        
+      },
+    {
+        "_id": "hg454hf5f6f5ff1fh544h5gg5f454hf",
+        "category_id": "01",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThW_p-8OG8HXzcTQSijUcGDSI0qJ28_rot4A&usqp=CAU",
+        "title": "hotel room booking 1",
+        "guests": 2,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.1 },
+        "price": 326
+        
+      },
+    {
+        "_id": "fk45jdk14bd15261f11c2ab6564a",
+        "category_id": "01",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/25/c7/d9/hotel-shreesh.jpg",
+        "title": "hotel room booking 1",
+        "guests": 4,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.5 },
+        "price": 326
+        
+      },
+    {
+        "_id": "fd54fd5f4gdf545df46d5686dsb6a",
+        "category_id": "02",
+        "image_url": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_details_desktop/v1574429696/Hotel/Kolkata/00176543/SUITE_AC_ROOMS(_1)_yQq9oL.jpg",
+        "title": "hotel room booking 1",
+        "guests": 4,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.5 },
+        "price": 326
+        
+      },
+    {
+        "_id": "f542646gf754f6d467g654f86df6884",
+        "category_id": "02",
+        "image_url": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3439/x_335,y_0,w_4584,h_3439,r_0,c_crop,q_80,fl_progressive/w_1350,f_auto,c_fit/kenilworth-hotel-kolkata/Russel_Suite_-_Suite_in_Kolkata_-_Kenilworth_Hotel",
+        "title": "hotel room booking 1",
+        "guests": 4,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.5 },
+        "price": 326
+        
+      },
+    {
+        "_id": "g454fg54df654f4df5f564fd5gfd",
+        "category_id": "02",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWuO61F7XxDVGMV21hQHtEQNYWexVw45QA8g&usqp=CAU",
+        "title": "hotel room booking 1",
+        "guests": 3,
+        "bedroom": 2,
+        "beds": 3,
+        "bathroom": 2,
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.1 },
+        "price": 326
+        
+      },
+    {
+        "_id": "f5456f4654f848fg84f8g489f4g8",
+        "category_id": "03",
+        "image_url": "https://images.trvl-media.com/hotels/1000000/890000/881600/881558/35f575c6.jpg?impolicy=fcrop&w=670&h=385&p=1&q=medium",
+        "title": "hotel room booking 1",
+        "guests": 4,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.5 },
+        "price": 326
+        
+      },
+    {
+        "_id": "gh4fh5fg46f8hgf4fg232hfg6h4gff8gfg54",
+        "category_id": "03",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7GOf83m_Ln-vPcSWMTvxiPzRQ7aHNQaS58P0SE0Kf1ej3cIO7P-Nh1tXKGenwgEsD5Qo&usqp=CAU",
+        "title": "hotel room booking ",
+        "guests": 1,
+        "bedroom": 1,
+        "beds": 2,
+        "bathroom": 2,
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.7 },
+        "price": 256
+        
+      },
+    {
+        "_id": "hfg4564hg4gf456ghf46fh4fh546fh",
+        "category_id": "04",
+        "image_url": "https://d3262fryr7kj73.cloudfront.net/property-images/img-949x449/kolkata/nx-hotel/2.webp",
+        "title": "hotel room booking 1",
+        "guests": 4,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.5 },
+        "price": 326
+        
+      },
+    {
+        "_id": "g456fg8gfg4fg848gf484g8fd48g4",
+        "category_id": "04",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJ8svp6tDbMSwEn2I3PBl3dXACcmOQPqfMAfx_S10eXAowbnu7QKNzkriKZl_zpVkgr0&usqp=CAU",
+        "title": "hotel room booking 1",
+        "guests": 4,
+        "bedroom": 2,
+        "beds": 2,
+        "bathroom": 2,
+
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, ",
+        "rating": { "number": 4.5 },
+        "price": 326
+        
+      }
+
+
+
+
+
+]
